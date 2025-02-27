@@ -9,6 +9,8 @@ PC could be replaced with PLA for all parts excepts the motor mounts which could
 
 All files marked with [*] require some additional setting or considerations covered below.
 
+| File | Instructions |
+| ---- | ------------ |
 | belt_reducer_frame[*].stl | This part has been printed using SLA as there is no optimal orientation for FDM |
 | bushing_cap[*].stl | Needs to be printed at a 100% infill |
 | combo_bushing_pulley[*].stl | This part been printed using SLA for the better dimensional accuracy and smoother surface, but FDM will work too with a lot of sanding and grease |
